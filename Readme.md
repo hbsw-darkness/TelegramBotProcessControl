@@ -1,7 +1,7 @@
 # TelegramBot 을 이용한 프로세스 체크 프로그램
 
 #개발환경
-+ window 7 and 8 and 10,  python3.4, pyTelegramBotAPI
++ window 7 and 8 and 10,  python2.7, pyTelegramBotAPI
 + pyTelegramBotAPI URL : https://github.com/eternnoir/pyTelegramBotAPI
 
 #개발 목적
